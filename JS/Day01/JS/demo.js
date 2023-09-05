@@ -142,3 +142,5 @@ for (var i = 1; i < 7; i++) {
 
 // document.writeln("Hello");
 // document.writeln("ITI");
+
+document.writeln("<h1 class='myClass'>test</h1>");
